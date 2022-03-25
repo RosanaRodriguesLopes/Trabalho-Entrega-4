@@ -1,0 +1,22 @@
+.destino--secao {
+  padding: 2rem 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  padding: 0;
+  max-width: 17rem;
+  margin: 5px;
+}
+.card img {
+  width: 100%;
+}
+
+.row {
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

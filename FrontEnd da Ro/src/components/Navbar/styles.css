@@ -1,0 +1,27 @@
+header {
+  background-color: #f6d6e7;
+  transition: all ease-in-out .25s;
+}
+
+.img--logo {
+  width: 12rem;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.nav-item {
+  text-align: left;
+}
+
+.btn--search {
+  background-color: #ffffff;
+}
+
+.btn--search:hover {
+  background-color: #f597c9;
+  color: #fff;
+}

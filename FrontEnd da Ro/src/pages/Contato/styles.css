@@ -1,0 +1,22 @@
+.contato--secao {
+  min-height: 70vh;
+}
+
+.form--conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.form--contato {
+  margin: 5rem;
+}
+
+
+@media screen and (max-width: 770px) {
+    .form--conteudo {
+        width: 100%;
+    }
+}
